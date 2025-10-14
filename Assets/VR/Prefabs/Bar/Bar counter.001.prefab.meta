@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67b47a1e6569ecc4aa8fa354a450327b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Prefabs/Bar/Bar counter.001.prefab
+  uploadId: 324073

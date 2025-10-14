@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3206c70d9961d814ca3c20fc1ddc6967
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Prefabs/Bar/Teleport.prefab
+  uploadId: 324073

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11e5ecb8940c4094d9aea762b891df42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Scrirpt/SimpleCameraController.cs
+  uploadId: 324073

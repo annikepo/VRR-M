@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 247790111b3ee744ca715e5b14e07fbe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Materials/Bar/Window.mat
+  uploadId: 324073

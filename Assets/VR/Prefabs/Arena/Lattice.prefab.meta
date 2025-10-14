@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76c529785d5f34642a3156dbd9ad7c8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Prefabs/Arena/Lattice.prefab
+  uploadId: 324073

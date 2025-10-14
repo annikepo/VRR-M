@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 408a0049bd751384bbbe3c1c074e6a2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130866
+  packageName: VR Scenes
+  packageVersion: 2.0
+  assetPath: Assets/VR/Scenes/Roof of skyscraper/LightingData.asset
+  uploadId: 324073

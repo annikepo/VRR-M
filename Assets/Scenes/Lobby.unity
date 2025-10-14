@@ -241,12 +241,24 @@ PrefabInstance:
       value: Teleport Anchor (1)
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2404
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2404
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2404
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.12
+      value: -2.844
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.0060104
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -579,12 +591,24 @@ PrefabInstance:
       value: Teleport Anchor
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.12
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.015
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -701,12 +725,24 @@ PrefabInstance:
       value: Teleport Anchor (2)
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1414
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.1414
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.1414
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.57
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.21646
       objectReference: {fileID: 0}
     - target: {fileID: 8164705571879959090, guid: fad94b617f0540568dbf4c9c4011248c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1220,7 +1256,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.3506, y: 2.3506, z: 2.3506}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
