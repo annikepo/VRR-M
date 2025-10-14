@@ -1146,6 +1146,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1257863195}
   - component: {fileID: 1257863196}
+  - component: {fileID: 1257863197}
   m_Layer: 0
   m_Name: Right Hand
   m_TagString: Untagged
@@ -1168,6 +1169,7 @@ Transform:
   m_Children:
   - {fileID: 143326519}
   - {fileID: 247118267}
+  - {fileID: 571492339}
   m_Father: {fileID: 2074723342}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1257863196
@@ -1239,6 +1241,31 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings: []
     m_Flags: 0
+--- !u!114 &1257863197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257863194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ccc0ec9fab05e14c83d443c5d26224f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TeleportationActivator
+  teleportInteractor: {fileID: 1537864445}
+  teleportActivatorAction:
+    m_UseReference: 1
+    m_Action:
+      m_Name: Teleport Activator
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 63875f49-cef4-4649-9543-426ee03633e7
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: -8061240218431744966, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!1 &1362721877
 GameObject:
   m_ObjectHideFlags: 0
@@ -1337,7 +1364,6 @@ Transform:
   m_Children:
   - {fileID: 258383016}
   - {fileID: 1502353466}
-  - {fileID: 571492339}
   m_Father: {fileID: 2074723342}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1390992192
@@ -1672,7 +1698,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 1390992191}
+    m_TransformParent: {fileID: 1257863195}
     m_Modifications:
     - target: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
       propertyPath: m_Handedness
@@ -1735,6 +1761,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1800acf6366418a9b5f610249000331, type: 3}
+--- !u!114 &1537864445 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
+  m_PrefabInstance: {fileID: 1537864444}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6803edce0201f574f923fd9d10e5b30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1640130638
 PrefabInstance:
   m_ObjectHideFlags: 0
